@@ -51,21 +51,6 @@ React • FastAPI • PostgreSQL
 - Dashboards administrativos
 - Sistemas CRUD completos
 
----
-
-# 📊 Estatísticas GitHub
-
-![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=felipefpinto&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipefpinto&layout=compact&theme=tokyonight)
-
----
-
-# 🌱 Atualmente estudando
-- Arquitetura de Software
-- APIs REST
-- Desenvolvimento Mobile
-- Cloud Computing
 
 ---
 
