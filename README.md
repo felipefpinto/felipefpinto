@@ -13,13 +13,13 @@
 ![hardskills](https://skillicons.dev/icons?i=react,tailwind,js,html,css,figma)
 
 ### Back-end
-![hardskills](https://skillicons.dev/icons?i=py,fastapi,html,css)
+![hardskills](https://skillicons.dev/icons?i=py,kotlin,fastapi,flask)
 
 ### Banco de Dados
-![hardskills](https://skillicons.dev/icons?i=postgres,mysql)
+![hardskills](https://skillicons.dev/icons?i=postgres,mysql,sqlite)
 
 ### Ferramentas
-![hardskills](https://skillicons.dev/icons?i=git,github,vscode,androidstudio)
+![hardskills](https://skillicons.dev/icons?i=git,github,vscode,androidstudio,docker)
 ---
 
 # 📌 Projetos em Destaque
